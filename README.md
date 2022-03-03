@@ -1,6 +1,6 @@
 # faceDetectionApp
 
-- [ ] Install Qt Creator 5.15.2
+- [ X ] Install Qt Creator 5.15.2
 - [ ] Run Hello world in Qt Creator
 - [ ] Write Qt program by CMake
 - [ ] Open Webcam by OpenCV (using CMake)
