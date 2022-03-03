@@ -1,4 +1,4 @@
-# revealFaceApp
+# faceDetectionApp
 
 - [ ] Install Qt Creator 5.15.2
 - [ ] Run Hello world in Qt Creator
