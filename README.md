@@ -2,7 +2,7 @@
 
 - [x] Install Qt Creator 5.15.2
 - [x] Run Hello world in Qt Creator
-- [ ] Write Qt program by CMake
+- [x] Write Qt program by CMake
 - [ ] Open Webcam by OpenCV (using CMake)
 - [ ] Face detection using OpenCV
 - [ ] Streamming video from webcam to Qt
