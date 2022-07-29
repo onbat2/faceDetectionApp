@@ -6,6 +6,6 @@
 - [x] Open Webcam by OpenCV (using CMake)
 - [x] Face detection using OpenCV
 - [x] Streamming video from webcam to Qt
-- [ ] Run Face Detection  App in Qt
-- [ ] Improve Face Detection App
+- [x] Run Face Detection  App in Qt
+- [x] Improve Face Detection App
 
